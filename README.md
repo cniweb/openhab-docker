@@ -5,6 +5,7 @@
 [![Build state](https://travis-ci.org/openhab/openhab-docker.svg?branch=master)](https://travis-ci.org/openhab/openhab-docker) [![](https://images.microbadger.com/badges/image/openhab/openhab:2.4.0.svg)](https://microbadger.com/images/openhab/openhab:2.4.0 "Get your own image badge on microbadger.com") [![Docker Label](https://images.microbadger.com/badges/version/openhab/openhab:2.4.0.svg)](https://microbadger.com/#/images/openhab/openhab:2.4.0) [![Docker Stars](https://img.shields.io/docker/stars/openhab/openhab.svg?maxAge=2592000)](https://hub.docker.com/r/openhab/openhab/) [![Docker Pulls](https://img.shields.io/docker/pulls/openhab/openhab.svg?maxAge=2592000)](https://hub.docker.com/r/openhab/openhab/) [![Join the chat at https://gitter.im/openhab/openhab-docker](https://badges.gitter.im/openhab/openhab-docker.svg)](https://gitter.im/openhab/openhab-docker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![GitHub issues](https://img.shields.io/github/issues/openhab/openhab-docker.svg)](https://github.com/openhab/openhab-docker/issues) [![GitHub forks](https://img.shields.io/github/forks/openhab/openhab-docker.svg)](https://github.com/openhab/openhab-docker/network) [![GitHub stars](https://img.shields.io/github/stars/openhab/openhab-docker.svg)](https://github.com/openhab/openhab-docker/stargazers) [![CodeFactor](https://www.codefactor.io/repository/github/openhab/openhab-docker/badge)](https://www.codefactor.io/repository/github/openhab/openhab-docker)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-docker?ref=badge_shield)
 
 Table of Contents
 =================
@@ -31,6 +32,9 @@ Table of Contents
       * [Executing shell scripts before openHAB is started](#executing-shell-scripts-before-openhab-is-started)
       * [Contributing](#contributing)
       * [License](#license)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-docker?ref=badge_large)
 
 ## Introduction
 
